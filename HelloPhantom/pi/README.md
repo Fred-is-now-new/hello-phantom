@@ -1,4 +1,4 @@
-<b>This is the final copy. Everything put here must be considered good-to-run, and the corresponding 'final' folder on the Raspberry Pi will be updated to match.</b>
+<b>[!]Has not been properly updated since January 2025 due to the Pi's web browser being blocked by the school firewall. All inside is deprecated, and makes no use of websocketing to another computer, not GPT4ALL usage.</b>
 
 .py files:
 <ul>
